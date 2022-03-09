@@ -1,10 +1,10 @@
 //============================================================================
-// Name        : StackArray.cpp
-// Author      : Ziya Karakaya
-// Version     : 0.2
-// Date		   : Mar 15 2021
+// Name        : School_system.cpp
+// Author      : Fahrettin Baştürk
+// Version     : 3.0.0
+// Date		   : may 7, 2020
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : school system in c++ as a console application 
 //============================================================================
 
 
