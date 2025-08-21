@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : School_system.cpp
-// Author      : Fahrettin Baştürk
+// Author      : ferivonus
 // Version     : 3.0.0
 // Date		   : may 7, 2020
 // Copyright   : Your copyright notice
